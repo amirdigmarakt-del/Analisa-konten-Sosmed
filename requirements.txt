@@ -1,0 +1,8 @@
+streamlit>=1.50
+pandas>=2.0
+plotly>=5.20
+vaderSentiment>=3.3.2
+textblob>=0.18
+# Opsional:
+wordcloud>=1.9          # menampilkan word cloud
+deep-translator>=1.11   # menerjemahkan ke Inggris sebelum TextBlob
